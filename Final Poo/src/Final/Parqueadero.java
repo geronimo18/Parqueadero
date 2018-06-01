@@ -1,14 +1,13 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package Final;
-
-/**
- *
- * @author Estudiantes
- */
 public class Parqueadero {
-    
+    int cupo=30;
+    public void ingresarvehiculo(String [] args){
+                
+    }
+    public void retirarvehiculo(){
+        
+    }
+    public void consultarcupos(){
+        System.out.println(cupo);
+    }
 }
